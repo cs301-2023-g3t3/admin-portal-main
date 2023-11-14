@@ -1,0 +1,24 @@
+[submodule "project-2023-24t1-g3-t3-frontend"]
+	path = project-2023-24t1-g3-t3-frontend
+	url = https://github.com/cs301-2023-g3t3/project-2023-24t1-g3-t3-frontend.git
+[submodule "authentication_lambda"]
+	path = authentication_lambda
+	url = https://github.com/cs301-2023-g3t3/authentication_lambda.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/cs301-2023-g3t3/infra.git
+[submodule "logs-lambda"]
+	path = logs-lambda
+	url = https://github.com/cs301-2023-g3t3/logs-lambda.git
+[submodule "maker-checker"]
+	path = maker-checker
+	url = https://github.com/cs301-2023-g3t3/maker-checker.git
+[submodule "points-ledger"]
+	path = points-ledger
+	url = https://github.com/cs301-2023-g3t3/points-ledger.git
+[submodule "user-storage"]
+	path = user-storage
+	url = https://github.com/cs301-2023-g3t3/user-storage.git
+[submodule "email_service"]
+	path = email_service
+	url = https://github.com/cs301-2023-g3t3/email_service.git

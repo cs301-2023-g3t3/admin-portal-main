@@ -2,7 +2,7 @@
 <img style="background:white" src="./.github/images/header.png"></img>
 
 ## Description
-This Admin Portal built for Ascenda Loyalty is a highly scalable and highly available solution for internal admin staff to handle users and their points accounts. We mainly utilised a serverless architecture to deploy our microservices as AWS Lambda Functions.
+This Admin Portal System built for Ascenda Loyalty is a highly scalable and highly available solution for internal admin staff to handle users and their points accounts. We mainly utilised a serverless architecture to deploy our microservices as AWS Lambda Functions. We also utilised a variety of AWS services in our architecture to enable a robust and extensible system.
 
 ## Solution Architecture
 
